@@ -6,8 +6,8 @@
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "PaddyPool",
+        	"url": "stratum+tcp://paddypool.net:9998",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RX3bbEym5w1GtunWxyW4nHYbwcUYckMaJN.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
