@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "CloudIKO",
-        	"url": "stratum+tcp://eu.cloudiko.io:9999",
+		"name": "LuckPool",
+        	"url": "stratum+tcp://eu.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
